@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ToDo-using-Firebase/static/css/main.8c7aeabe.chunk.css",
+    "main.js": "/ToDo-using-Firebase/static/js/main.c34af6b3.chunk.js",
+    "main.js.map": "/ToDo-using-Firebase/static/js/main.c34af6b3.chunk.js.map",
+    "runtime-main.js": "/ToDo-using-Firebase/static/js/runtime-main.74ed5847.js",
+    "runtime-main.js.map": "/ToDo-using-Firebase/static/js/runtime-main.74ed5847.js.map",
+    "static/js/2.fe9ce63f.chunk.js": "/ToDo-using-Firebase/static/js/2.fe9ce63f.chunk.js",
+    "static/js/2.fe9ce63f.chunk.js.map": "/ToDo-using-Firebase/static/js/2.fe9ce63f.chunk.js.map",
+    "index.html": "/ToDo-using-Firebase/index.html",
+    "static/css/main.8c7aeabe.chunk.css.map": "/ToDo-using-Firebase/static/css/main.8c7aeabe.chunk.css.map",
+    "static/js/2.fe9ce63f.chunk.js.LICENSE.txt": "/ToDo-using-Firebase/static/js/2.fe9ce63f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ed5847.js",
+    "static/js/2.fe9ce63f.chunk.js",
+    "static/css/main.8c7aeabe.chunk.css",
+    "static/js/main.c34af6b3.chunk.js"
+  ]
+}
